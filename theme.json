@@ -1,0 +1,24 @@
+{
+  "workbench.colorTheme": "Red",
+  "workbench.colorCustomizations": {
+        "editor.background": "#161616",
+        "sideBar.background": "#161616",
+        "menu.background": "#161616",
+        "badge.background": "#161616",
+        "panel.background": "#161616",
+        "terminal.background": "#161616",
+        "input.background": "#161616",
+        "banner.background": "#161616",
+        "titleBar.activeBackground": "#161616",
+        "button.background": "#161616",
+        "agents.background": "#161616",
+        "minimap.background": "#161616",
+        "checkbox.background": "#161616",
+        "dropdown.background": "#161616",
+        "statusBar.background": "#161616",
+        "scrollbar.background": "#161616",
+        "editor.lineHighlightBackground": "#1f1f1f",
+        "selection.background": "#1f1f1f",
+        "editor.selectionBackground": "#3b1111",
+    }
+}
